@@ -1,0 +1,56 @@
+div{
+	background-color: gray;
+	opacity: 0.9;
+}
+.menu{
+	text-align: center;
+	width: 100%;
+	font-size: 20px;
+	box-sizing: border-box;
+	margin-top: 5%;
+	position: relative;
+}
+
+.container{
+	position: relative;
+	width: 90%;
+	margin-top: 3%;
+	border-color: red;
+}
+.section1{
+	float: left;
+	clear: both;
+	width: 33%;
+	margin-right: 4%;
+	border: 2px solid black;
+	box-sizing: border-box
+
+}
+
+.section2{
+	float: left;
+	clear: right;
+	width: 33%;
+	margin-right: 10px;
+	border: 2px solid black;
+	box-sizing: border-box
+}
+
+.section3{
+	position: absolute;
+	margin-left: 74%;
+	width: 33%;
+	border: 2px solid black;
+	box-sizing: border-box
+
+}
+
+.ok{
+	text-align: center;
+	background-color: red;
+	width: 30.4%;
+	margin-left: 70%;
+	border: 2px solid black;
+	box-sizing: border-box;
+	margin-top: -2px;
+}
